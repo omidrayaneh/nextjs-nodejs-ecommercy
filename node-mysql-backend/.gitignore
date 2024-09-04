@@ -1,0 +1,9 @@
+# Node modules directory
+node_modules/
+
+# Logs
+*.log
+logs/
+pids/
+*.pid
+*.seed
