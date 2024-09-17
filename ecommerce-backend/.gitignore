@@ -1,5 +1,5 @@
 # Node modules directory
-node_modules/
+ecommerce-backend/node_modules/
 
 # Logs
 *.log
